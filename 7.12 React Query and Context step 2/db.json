@@ -1,0 +1,33 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Getting Started with React",
+      "author": "John Doe",
+      "url": "https://react.dev",
+      "likes": 5
+    },
+    {
+      "id": "2",
+      "title": "React Query Best Practices",
+      "author": "Jane Smith",
+      "url": "https://tanstack.com/query",
+      "likes": 8
+    },
+    {
+      "id": "3",
+      "title": "State Management in React",
+      "author": "Bob Johnson",
+      "url": "https://react.dev/reference/react/useReducer",
+      "likes": 12
+    },
+    {
+      "title": "Amina Kheri",
+      "author": "Kheri",
+      "url": "7.14: React Query and Context step 4 Use the Context API to manage the data for the logged in user.",
+      "likes": 0,
+      "id": "xcEomhDRWt4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

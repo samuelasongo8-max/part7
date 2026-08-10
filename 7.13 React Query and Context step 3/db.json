@@ -1,0 +1,26 @@
+{
+  "blogs": [
+    {
+      "id": "2",
+      "title": "React Query Best Practices",
+      "author": "Jane Smith",
+      "content": "Discover the best practices for using React Query in your applications.",
+      "likes": 8
+    },
+    {
+      "id": "3",
+      "title": "State Management in React",
+      "author": "Bob Johnson",
+      "content": "Explore different state management solutions for React applications.",
+      "likes": 14
+    },
+    {
+      "title": "Samuel Asongo88",
+      "author": "Antony",
+      "url": "http://localhost:5175/create",
+      "likes": 15,
+      "id": "gZ4Xb4mBVrY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
